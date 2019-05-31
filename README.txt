@@ -1,3 +1,4 @@
 Minicurso GitHub
 ---
-Reposiório para teste minicurso Git.
+Repositorio para teste minicurso Git.
+Modificacao
